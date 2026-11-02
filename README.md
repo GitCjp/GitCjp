@@ -60,6 +60,20 @@
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GITHUB-172B3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitCjp)
+[![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/cjpabc)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/hardcore-austinfkv/)
+
+### LeetCode · 算法练习
+
+<a href="https://leetcode.cn/u/hardcore-austinfkv/">
+  <img src="https://raw.githubusercontent.com/GitCjp/GitCjp/main/assets/leetcode-home.jpg" alt="旋风菠萝的力扣主页" width="100%" />
+</a>
+
+<sub>力扣主页快照 · 2026-11-03 · 点击图片查看最新进展</sub>
+
+<br />
+
 ### CSDN 博客
 
 [![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/cjpabc)
