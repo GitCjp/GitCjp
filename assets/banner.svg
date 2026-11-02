@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Whirlwind Pineapple</title>
+  <desc id="desc">Java Backend, AI and MCP, and technical notes. A pineapple on a warm cream background.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#172b3a" stroke-opacity=".045"/>
+    </pattern>
+    <pattern id="skin" width="25" height="25" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0H25V25H0Z" fill="none" stroke="#c67a19" stroke-width="1.6" stroke-opacity=".5"/>
+    </pattern>
+    <clipPath id="fruit"><rect x="752" y="90" width="104" height="122" rx="45"/></clipPath>
+  </defs>
+  <rect width="960" height="240" rx="20" fill="#fff6e6"/>
+  <rect width="960" height="240" rx="20" fill="url(#grid)"/>
+  <circle cx="807" cy="123" r="98" fill="#ffebbd"/>
+  <path d="M49 46H93" stroke="#ee9631" stroke-width="5" stroke-linecap="round"/>
+  <text x="48" y="83" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3" font-weight="700" fill="#9c5d1e">HELLO, WORLD. I'M GITCJP</text>
+  <text x="46" y="132" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800" letter-spacing="-1.2" fill="#172b3a">WHIRLWIND PINEAPPLE</text>
+  <text x="49" y="169" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#5d6b70">Java Backend  /  AI &amp; MCP  /  Technical Notes</text>
+  <path d="M799 103Q766 71 766 48Q790 59 804 83Q794 47 804 24Q822 49 815 83Q831 56 852 53Q846 80 819 105Z" fill="#397752"/>
+  <path d="M804 100Q805 67 804 37" stroke="#275d3e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="752" y="90" width="104" height="122" rx="45" fill="#f5b83f"/>
+  <rect x="746" y="85" width="116" height="136" fill="url(#skin)" clip-path="url(#fruit)"/>
+  <path d="M763 121Q765 108 775 104" stroke="#ffe3a0" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="786" cy="145" r="4" fill="#172b3a"/>
+  <circle cx="821" cy="145" r="4" fill="#172b3a"/>
+  <path d="M794 162Q803 171 812 162" stroke="#172b3a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M717 160Q691 145 713 126M876 105Q904 121 883 143" stroke="#e7a14c" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M691 174H719M886 168H908" stroke="#e7a14c" stroke-width="3" stroke-linecap="round"/>
+  <text x="49" y="210" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#8b765c">STAY CURIOUS. KEEP BUILDING.</text>
+</svg>
