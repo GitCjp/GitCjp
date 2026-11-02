@@ -4,75 +4,72 @@
 
 # 🍍 你好，我是旋风菠萝
 
-**Java 后端 · AI 应用探索 · 技术笔记**
+**Java Backend · AI & MCP · Keep Building**
 
-把问题想明白，把代码写清楚，把学到的东西记录下来。
-
-[![CSDN 博客](https://img.shields.io/badge/CSDN-旋风菠萝-F28C28?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/cjpabc)
-[![GitHub](https://img.shields.io/badge/GitHub-GitCjp-172B3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitCjp?tab=repositories)
+保持好奇，持续动手。
 
 </div>
 
 ## 👋 关于我
 
-- 🎓 信阳师范大学 · 软件工程本科在读
-- ☕ 以 Java 后端为主要方向，持续学习框架原理与工程实践
-- 🔍 关注 JVM、并发编程、数据库、缓存与分布式相关问题
-- 🤖 探索 AI 应用与 MCP 工具，让日常学习和开发更方便
-- ✍️ 在 [CSDN](https://blog.csdn.net/cjpabc) 记录技术笔记、问题分析和项目复盘
+- 🎓 信阳师范大学 · 软件工程
+- ☕ 专注 Java 后端开发，探索 AI 应用与 MCP 工具
+- 🌱 正在学习 TypeScript 和 Python
+- ✍️ 在 [CSDN](https://blog.csdn.net/cjpabc) 和 [飞书](https://hcnel3mu0h1l.feishu.cn/wiki/Xvklwh9jxiDYfIkVbeccRTkunzc) 记录与分享技术实践
 
-## 🧰 技术方向
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-F28C28?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MyBatis-172B3A?style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-| 方向 | 学习与实践内容 |
-| :--- | :--- |
-| Java 基础与原理 | 集合、JUC、JVM、设计模式 |
-| 后端开发 | Spring / Spring Boot、MyBatis、接口与业务逻辑 |
-| 数据与中间件 | MySQL、Redis、消息队列、分布式锁 |
-| AI 工具探索 | Java 21、MCP、语音转写、模型 API 接入 |
-
-## 🛠️ 项目实践
-
-### [🎙️ voice-transcript-mcp](https://github.com/GitCjp/voice-transcript-mcp)
-
-将本地音频转成文字的 MCP 工具，通过 stdio 接入支持 MCP 的 AI 客户端。
-
-- **技术：** Java 21 · Maven · 阿里云 DashScope · fun-asr
-- **流程：** 文件校验 → 上传音频 → 提交转写任务 → 轮询结果 → 返回文本
-- **格式：** 支持 m4a、mp3、wav 等常见音视频格式
-- **用途：** 整理录音、沉淀文字笔记，让音频内容更便于检索和复盘
-
-[查看代码与接入说明 →](https://github.com/GitCjp/voice-transcript-mcp#readme)
-
-## 📚 博客与笔记
-
-围绕 Java 后端整理知识，也记录自己遇到的问题。
-
-| 主题 | 阅读入口 |
-| :--- | :--- |
-| Java 基础 | [值传递与引用传递](https://blog.csdn.net/cjpabc/article/details/169859898) · [四种引用类型](https://blog.csdn.net/cjpabc/article/details/169862510) |
-| JVM | [Minor GC、Major GC 和 Full GC](https://blog.csdn.net/cjpabc/article/details/148043428) |
-| 数据库 | [MySQL 高频问题整理](https://blog.csdn.net/cjpabc/article/details/148265963) |
-| Redis 与并发 | [Redis 高频问题整理](https://blog.csdn.net/cjpabc/article/details/148266023) · [分布式锁的实现](https://blog.csdn.net/cjpabc/article/details/149752717) |
-| Spring | [AOP 的代理模式](https://blog.csdn.net/cjpabc/article/details/148175326) |
-
-[查看全部文章 →](https://blog.csdn.net/cjpabc)
-
----
+## 🧰 技术栈
 
 <div align="center">
 
-**🍍 保持好奇，持续动手。**
+### 💻 主修技能
 
-欢迎通过 [GitHub](https://github.com/GitCjp) 或 [CSDN](https://blog.csdn.net/cjpabc) 交流。
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br />
+
+### 🌱 正在学习
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+## 🛠️ 项目
+
+### [🎙️ voice-transcript-mcp](https://github.com/GitCjp/voice-transcript-mcp)
+
+基于 **Java 21 + DashScope** 的语音转写 MCP 服务，将本地音频转为文本，可接入支持 MCP 的 AI 客户端。
+
+[查看项目 →](https://github.com/GitCjp/voice-transcript-mcp)
+
+## 📚 知识笔记
+
+<div align="center">
+
+[Java 基础](https://hcnel3mu0h1l.feishu.cn/wiki/F0lSwuYHDixkT7klpuocSleKnLc) · [JVM](https://hcnel3mu0h1l.feishu.cn/wiki/HKpUwSfobiIwx8kjxsCcnMQjnYf) · [并发编程](https://hcnel3mu0h1l.feishu.cn/wiki/BYG1w7ZL4ivFUqkCptScRap2nKc)
+
+[MySQL](https://hcnel3mu0h1l.feishu.cn/wiki/JQCjwtUNQiMlw2kPm57csQSsnpf) · [Redis](https://hcnel3mu0h1l.feishu.cn/wiki/CCEEwByHqiKOQSkrimFcfFiMnUh) · [Spring](https://hcnel3mu0h1l.feishu.cn/wiki/RndCwQDQLiSAK5kznlLcMxDtnXc)
+
+[进入飞书知识库 →](https://hcnel3mu0h1l.feishu.cn/wiki/Xvklwh9jxiDYfIkVbeccRTkunzc)
+
+</div>
+
+## 📫 找到我
+
+<div align="center">
+
+### CSDN 博客
+
+[![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/cjpabc)
+
+<br />
+
+<a href="https://blog.csdn.net/cjpabc">
+  <img src="https://raw.githubusercontent.com/GitCjp/GitCjp/main/assets/csdn-home.jpg" alt="旋风菠萝的 CSDN 博客主页" width="100%" />
+</a>
+
+<sub>CSDN 主页快照 · 2026-11-03 · 点击图片访问博客</sub>
 
 </div>
